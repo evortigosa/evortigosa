@@ -1,6 +1,6 @@
 - 👋 Hi there, I'm Evandro - @evortigosa
 - 👀 I’m a PhD Student at University of São Paulo interested in Computer Science
-- 🌱 I’m currently working on Machine Learning and EXplainable Artificial Intelligence
+- 🌱 I’m currently working on Machine Learning and EXplainable Artificial Intelligence (XAI)
 - 💞️ I’m looking to collaborate on research in XAI
 - 📫 How to reach me https://www.linkedin.com/in/evandro-ortigossa-58062221
 
